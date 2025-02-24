@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Suchana-Pokhrel
+- 👀 I’m interested in Building different Web Projects and Learning new things.
+- 🌱 I’m currently learning React and JS
+- 💞️ I’m looking to collaborate with different companies.
+- 😄 Pronouns: She/ Hers
+- ⚡ Fun fact: I like writing poems also.
